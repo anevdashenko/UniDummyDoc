@@ -1,0 +1,15 @@
+{
+  "name": "com.alexdummy.unidoc",
+  "author": "Alex",
+  "displayName": "UniDummyDoc",
+  "description": "simple doc test",
+  "unity": "2019.1",
+  "version": "2021.11.22",
+  "keywords": [
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anevdashenko/UniDummyDoc.git"
+  }
+}
